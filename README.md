@@ -1,1 +1,1 @@
-# InteractiveMural
+An interactive multiuser mural.
